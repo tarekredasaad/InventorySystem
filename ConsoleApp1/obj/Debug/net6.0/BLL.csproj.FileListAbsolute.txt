@@ -1,0 +1,15 @@
+D:\c#\Inventory Project\ProjectCSharp (1)\ProjectCSharp\ConsoleApp1\bin\Debug\net6.0\BLL.exe
+D:\c#\Inventory Project\ProjectCSharp (1)\ProjectCSharp\ConsoleApp1\bin\Debug\net6.0\BLL.deps.json
+D:\c#\Inventory Project\ProjectCSharp (1)\ProjectCSharp\ConsoleApp1\bin\Debug\net6.0\BLL.runtimeconfig.json
+D:\c#\Inventory Project\ProjectCSharp (1)\ProjectCSharp\ConsoleApp1\bin\Debug\net6.0\BLL.dll
+D:\c#\Inventory Project\ProjectCSharp (1)\ProjectCSharp\ConsoleApp1\bin\Debug\net6.0\BLL.pdb
+D:\c#\Inventory Project\ProjectCSharp (1)\ProjectCSharp\ConsoleApp1\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\c#\Inventory Project\ProjectCSharp (1)\ProjectCSharp\ConsoleApp1\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Inventory Project\ProjectCSharp (1)\ProjectCSharp\ConsoleApp1\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\c#\Inventory Project\ProjectCSharp (1)\ProjectCSharp\ConsoleApp1\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\c#\Inventory Project\ProjectCSharp (1)\ProjectCSharp\ConsoleApp1\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\c#\Inventory Project\ProjectCSharp (1)\ProjectCSharp\ConsoleApp1\obj\Debug\net6.0\BLL.dll
+D:\c#\Inventory Project\ProjectCSharp (1)\ProjectCSharp\ConsoleApp1\obj\Debug\net6.0\refint\BLL.dll
+D:\c#\Inventory Project\ProjectCSharp (1)\ProjectCSharp\ConsoleApp1\obj\Debug\net6.0\BLL.pdb
+D:\c#\Inventory Project\ProjectCSharp (1)\ProjectCSharp\ConsoleApp1\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+D:\c#\Inventory Project\ProjectCSharp (1)\ProjectCSharp\ConsoleApp1\obj\Debug\net6.0\ref\BLL.dll

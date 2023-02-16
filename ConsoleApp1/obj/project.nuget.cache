@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vH0Khz/sFqgO1H01Pvh2jP5v0NlQSjnr/iBNBglArAJfZozc3B0PzgX9gx0TuNmH4UCMMhipQil6DHrw83rirQ==",
+  "success": true,
+  "projectFilePath": "D:\\c#\\Inventory Project\\ProjectCSharp (1)\\ProjectCSharp\\ConsoleApp1\\BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ALAMIIA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\ALAMIIA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\ALAMIIA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\ALAMIIA\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

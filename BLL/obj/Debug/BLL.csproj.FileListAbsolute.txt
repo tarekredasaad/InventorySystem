@@ -1,0 +1,16 @@
+E:\1TI 9 Months\C#\Project\ProjectCSharp\BLL\bin\Debug\BLL.exe.config
+E:\1TI 9 Months\C#\Project\ProjectCSharp\BLL\bin\Debug\BLL.exe
+E:\1TI 9 Months\C#\Project\ProjectCSharp\BLL\bin\Debug\BLL.pdb
+E:\1TI 9 Months\C#\Project\ProjectCSharp\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\1TI 9 Months\C#\Project\ProjectCSharp\BLL\obj\Debug\BLL.csproj.SuggestedBindingRedirects.cache
+E:\1TI 9 Months\C#\Project\ProjectCSharp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\1TI 9 Months\C#\Project\ProjectCSharp\BLL\obj\Debug\BLL.exe
+E:\1TI 9 Months\C#\Project\ProjectCSharp\BLL\obj\Debug\BLL.pdb
+D:\c#\Inventory Project\ProjectCSharp (1)\ProjectCSharp\BLL\bin\Debug\BLL.exe.config
+D:\c#\Inventory Project\ProjectCSharp (1)\ProjectCSharp\BLL\bin\Debug\BLL.exe
+D:\c#\Inventory Project\ProjectCSharp (1)\ProjectCSharp\BLL\bin\Debug\BLL.pdb
+D:\c#\Inventory Project\ProjectCSharp (1)\ProjectCSharp\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\c#\Inventory Project\ProjectCSharp (1)\ProjectCSharp\BLL\obj\Debug\BLL.csproj.SuggestedBindingRedirects.cache
+D:\c#\Inventory Project\ProjectCSharp (1)\ProjectCSharp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\c#\Inventory Project\ProjectCSharp (1)\ProjectCSharp\BLL\obj\Debug\BLL.exe
+D:\c#\Inventory Project\ProjectCSharp (1)\ProjectCSharp\BLL\obj\Debug\BLL.pdb
